@@ -1,0 +1,15 @@
+/Users/rik/Projects/TennisKata/TennisKata/bin/Debug/net7.0/TennisKata
+/Users/rik/Projects/TennisKata/TennisKata/bin/Debug/net7.0/TennisKata.deps.json
+/Users/rik/Projects/TennisKata/TennisKata/bin/Debug/net7.0/TennisKata.runtimeconfig.json
+/Users/rik/Projects/TennisKata/TennisKata/bin/Debug/net7.0/TennisKata.dll
+/Users/rik/Projects/TennisKata/TennisKata/bin/Debug/net7.0/TennisKata.pdb
+/Users/rik/Projects/TennisKata/TennisKata/obj/Debug/net7.0/TennisKata.csproj.AssemblyReference.cache
+/Users/rik/Projects/TennisKata/TennisKata/obj/Debug/net7.0/TennisKata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rik/Projects/TennisKata/TennisKata/obj/Debug/net7.0/TennisKata.AssemblyInfoInputs.cache
+/Users/rik/Projects/TennisKata/TennisKata/obj/Debug/net7.0/TennisKata.AssemblyInfo.cs
+/Users/rik/Projects/TennisKata/TennisKata/obj/Debug/net7.0/TennisKata.csproj.CoreCompileInputs.cache
+/Users/rik/Projects/TennisKata/TennisKata/obj/Debug/net7.0/TennisKata.dll
+/Users/rik/Projects/TennisKata/TennisKata/obj/Debug/net7.0/refint/TennisKata.dll
+/Users/rik/Projects/TennisKata/TennisKata/obj/Debug/net7.0/TennisKata.pdb
+/Users/rik/Projects/TennisKata/TennisKata/obj/Debug/net7.0/TennisKata.genruntimeconfig.cache
+/Users/rik/Projects/TennisKata/TennisKata/obj/Debug/net7.0/ref/TennisKata.dll
